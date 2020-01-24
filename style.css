@@ -1,0 +1,26 @@
+h1 {
+    color: blue;
+    text-align: center;
+}
+
+.Technology-milestones1 {
+    background-color: aqua;
+    padding: 15px;
+    min-height: 200px;
+}
+
+h2 {
+    color: red;
+    text-align: left;
+}
+
+img {
+    width: 800px;
+
+}
+
+.Technology-milestones2 {
+    background-color: violet;
+    padding: 25px;
+    min-height: 100px;
+}
